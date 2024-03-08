@@ -16,9 +16,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","RAGHAV_OP")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "@Freemusicspotify_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@KENOXBOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "SPOTIFY PREMUIM MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "KENOX")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
 # ---------------------------------------------------------
